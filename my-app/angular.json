@@ -44,7 +44,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "Cookies_Shop/my-app/"
+              // "baseHref": "Cookies_Shop/my-app/"
             },
             "development": {
               "buildOptimizer": false,
